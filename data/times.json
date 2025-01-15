@@ -1,0 +1,1064 @@
+{
+    "times": [
+      {
+        "nome": "Botafogo",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Palmeiras",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Grêmio",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Flamengo",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Bragantino",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Fluminense",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Athletico-PR",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Fortaleza",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "São Paulo",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Cruzeiro",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Internacional",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Cuiabá",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Bahia",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Corinthians",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Goiás",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Vasco da Gama",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Santos",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Coritiba",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "América-MG",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      },
+      {
+        "nome": "Atlético-MG",
+        "pontuacao": 0,
+        "posicao": 0,
+        "gols_marcados": 0,
+        "gols_sofridos": 0,
+        "cartoes_amarelos": 0,
+        "cartoes_vermelhos": 0,
+        "penaltis_convertidos": 0,
+        "penaltis_perdidos": 0,
+        "vitorias": 0,
+        "derrotas": 0,
+        "empates": 0,
+        "gols_falta": 0,
+        "jogos_sem_sofrer_gol": 0,
+        "jogadores": [
+          {
+            "nome": "Jogador 1",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 2",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 3",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 4",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          },
+          {
+            "nome": "Jogador 5",
+            "gols": 0,
+            "assistencias": 0,
+            "cartoes_amarelos": 0,
+            "cartoes_vermelhos": 0
+          }
+        ]
+      }
+    ]
+  }
